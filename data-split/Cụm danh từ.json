@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "word": "rau diếp cá",
+            "_word": "rau diep ca",
+            "description": "",
+            "tl": "Cụm danh từ",
+            "synset_vi": [
+                "rau thơm",
+                "rau mùi cá",
+                "rau mùi tàu",
+                "rau răm",
+                "rau diếp",
+                "rau ngò"
+            ]
+        },
+        {
+            "word": "rằm trung thu",
+            "_word": "ram trung thu",
+            "description": "",
+            "tl": "Cụm danh từ",
+            "synset_vi": [
+                "tết trung thu",
+                "ngày rằm tháng tám",
+                "ngày hội trăng rằm",
+                "lễ hội trăng tròn",
+                "lễ hội trung thu",
+                "ngày hội trung thu"
+            ]
+        }
+    ]
+}

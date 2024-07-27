@@ -1,0 +1,185 @@
+{
+    "data": [
+        {
+            "word": "kia",
+            "_word": "kia",
+            "description": "Từ dùng để chỉ một sự vật, địa điểm, hiện tượng ở xa vị trí của người nói, nhưng trong phạm vi có thể nhìn thấy cụ thể.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "đó",
+                "này",
+                "ấy",
+                "kia",
+                "kìa"
+            ]
+        },
+        {
+            "word": "chúng tôi (2 người) (đại từ)",
+            "_word": "chung toi (2 nguoi) (dai tu)",
+            "description": "Chỉ hai người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng ta (2 người)",
+                "chúng mình (2 người)",
+                "ta (2 người)",
+                "mình (2 người)"
+            ]
+        },
+        {
+            "word": "chúng tôi (3 người) (đại từ)",
+            "_word": "chung toi (3 nguoi) (dai tu)",
+            "description": "Chỉ ba người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng ta (3 người)",
+                "chúng mình (3 người)",
+                "ta (3 người)",
+                "mình (3 người)"
+            ]
+        },
+        {
+            "word": "chúng tôi (4 người) (đại từ)",
+            "_word": "chung toi (4 nguoi) (dai tu)",
+            "description": "Chỉ bốn người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng ta (4 người)",
+                "chúng mình (4 người)",
+                "ta (4 người)",
+                "mình (4 người)"
+            ]
+        },
+        {
+            "word": "chúng tôi (5 người) (đại từ)",
+            "_word": "chung toi (5 nguoi) (dai tu)",
+            "description": "Chỉ năm người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng ta (5 người)",
+                "chúng mình (5 người)",
+                "ta (5 người)",
+                "mình (5 người)"
+            ]
+        },
+        {
+            "word": "chúng tôi (đại từ)",
+            "_word": "chung toi (dai tu)",
+            "description": "Tổ hợp dùng để nhân danh một số người mà tự xưng.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng ta",
+                "chúng mình",
+                "ta",
+                "mình"
+            ]
+        },
+        {
+            "word": "các bạn (2 người) ",
+            "_word": "cac ban (2 nguoi) ",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "bạn (2 người)",
+                "các em (2 người)",
+                "các anh (2 người)",
+                "các chị (2 người)"
+            ]
+        },
+        {
+            "word": "họ (2 người) (đại từ)",
+            "_word": "ho (2 nguoi) (dai tu)",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng nó (2 người)",
+                "chúng (2 người)"
+            ]
+        },
+        {
+            "word": "họ (đại từ)",
+            "_word": "ho (dai tu)",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "chúng nó",
+                "chúng"
+            ]
+        },
+        {
+            "word": "ai",
+            "_word": "ai",
+            "description": "Từ dùng để nói về người nào đó, không rõ. ",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "ai",
+                "người nào",
+                "kẻ nào",
+                "gì"
+            ]
+        },
+        {
+            "word": "bao nhiêu?",
+            "_word": "bao nhieu?",
+            "description": "Số lượng không rõ nhiều hay ít (thường dùng để hỏi).",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "bao nhiêu",
+                "mấy",
+                "thế nào",
+                "bao lâu",
+                "biết bao"
+            ]
+        },
+        {
+            "word": "các bạn",
+            "_word": "cac ban",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "bạn",
+                "các em",
+                "các anh",
+                "các chị",
+                "các cháu"
+            ]
+        },
+        {
+            "word": "là gì?",
+            "_word": "la gi?",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "cái gì",
+                "gì",
+                "vật gì",
+                "việc gì",
+                "chuyện gì"
+            ]
+        },
+        {
+            "word": "mấy giờ?",
+            "_word": "may gio?",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "giờ nào",
+                "mấy giờ",
+                "bao giờ",
+                "lúc nào"
+            ]
+        },
+        {
+            "word": "thế nào?",
+            "_word": "the nao?",
+            "description": "Tổ hợp biểu thị có một điều muốn hỏi.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "thế nào",
+                "ra sao",
+                "như thế nào",
+                "làm sao",
+                "sao"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "word": "còn bạn?",
+            "_word": "con ban?",
+            "description": "",
+            "tl": "Câu hỏi",
+            "synset_vi": [
+                "bạn thì sao?",
+                "còn về phần bạn?",
+                "bạn thế nào?"
+            ]
+        },
+        {
+            "word": "mệt không?",
+            "_word": "met khong?",
+            "description": "",
+            "tl": "Câu hỏi",
+            "synset_vi": [
+                "có mệt không?",
+                "bạn có mệt không?",
+                "mệt mỏi không?"
+            ]
+        }
+    ]
+}

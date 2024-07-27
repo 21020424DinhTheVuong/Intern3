@@ -1,0 +1,1526 @@
+{
+    "data": [
+        {
+            "data": [
+                {
+                    "word": "người nước ngoài",
+                    "_word": "nguoi nuoc ngoai",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "người ngoại quốc",
+                        "người nước khác",
+                        "du khách"
+                    ]
+                },
+                {
+                    "word": "nổi da gà",
+                    "_word": "noi da ga",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "sởn gai ốc",
+                        "gai ốc",
+                        "rùng mình"
+                    ]
+                },
+                {
+                    "word": "cười nhếch mép",
+                    "_word": "cuoi nhech mep",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "cười khẩy",
+                        "cười mỉa mai",
+                        "cười chế giễu"
+                    ]
+                },
+                {
+                    "word": "cười vỡ bụng",
+                    "_word": "cuoi vo bung",
+                    "description": "Cười to và thành tràng dài mãi không thôi, đến mức như không thể nín nhịn được.",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "cười nghiêng ngả",
+                        "cười ngặt nghẽo",
+                        "cười không ngớt"
+                    ]
+                },
+                {
+                    "word": "tham ăn",
+                    "_word": "tham an",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tham lam",
+                        "ăn tham",
+                        "ngốn"
+                    ]
+                },
+                {
+                    "word": "thèm rỏ dãi",
+                    "_word": "them ro dai",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "thèm muốn",
+                        "thèm thuồng",
+                        "thèm nhỏ dãi"
+                    ]
+                },
+                {
+                    "word": "ngày Quốc tế phụ nữ 8/3",
+                    "_word": "ngay quoc te phu nu 8/3",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 8 tháng 3",
+                        "ngày phụ nữ quốc tế"
+                    ]
+                },
+                {
+                    "word": "ngày giải phóng thủ đô 10/10",
+                    "_word": "ngay giai phong thu do 10/10",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 10 tháng 10",
+                        "ngày giải phóng Hà Nội"
+                    ]
+                },
+                {
+                    "word": "ngày Giải phóng miền Nam 30/4",
+                    "_word": "ngay giai phong mien nam 30/4",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 30 tháng 4",
+                        "ngày thống nhất đất nước"
+                    ]
+                },
+                {
+                    "word": "ngày Người khuyết tật Việt Nam 18/4",
+                    "_word": "ngay nguoi khuyet tat viet nam 18/4",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 18 tháng 4",
+                        "ngày người khuyết tật Việt Nam"
+                    ]
+                },
+                {
+                    "word": "ngày Người khuyết tật Thế giới 3/12",
+                    "_word": "ngay nguoi khuyet tat the gioi 3/12",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 3 tháng 12",
+                        "ngày người khuyết tật thế giới"
+                    ]
+                },
+                {
+                    "word": "ngày Phụ nữ Việt Nam 20/10",
+                    "_word": "ngay phu nu viet nam 20/10",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 20 tháng 10",
+                        "ngày phụ nữ Việt Nam"
+                    ]
+                },
+                {
+                    "word": "ngày thương binh liệt sĩ 27/7",
+                    "_word": "ngay thuong binh liet si 27/7",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 27 tháng 7",
+                        "ngày thương binh liệt sĩ"
+                    ]
+                },
+                {
+                    "word": "ngày giỗ tổ Hùng Vương (âm lịch 10/3)",
+                    "_word": "ngay gio to hung vuong (am lich 10/3)",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày giỗ tổ",
+                        "ngày 10 tháng 3 âm lịch",
+                        "ngày giỗ tổ Hùng Vương"
+                    ]
+                },
+                {
+                    "word": "ngày Ngôn ngữ kí hiệu Quốc tế 23/9",
+                    "_word": "ngay ngon ngu ki hieu quoc te 23/9",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 23 tháng 9",
+                        "ngày ngôn ngữ kí hiệu quốc tế"
+                    ]
+                },
+                {
+                    "word": "tuần lễ người Điếc thế giới",
+                    "_word": "tuan le nguoi diec the gioi",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tuần lễ người điếc",
+                        "tuần lễ người khiếm thính"
+                    ]
+                },
+                {
+                    "word": "ngày của Mẹ",
+                    "_word": "ngay cua me",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày lễ mẹ",
+                        "ngày tôn vinh mẹ"
+                    ]
+                },
+                {
+                    "word": "ngày của Cha",
+                    "_word": "ngay cua cha",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày lễ cha",
+                        "ngày tôn vinh cha"
+                    ]
+                },
+                {
+                    "word": "ngày gia đình Việt Nam 28/6",
+                    "_word": "ngay gia dinh viet nam 28/6",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày 28 tháng 6",
+                        "ngày gia đình Việt Nam"
+                    ]
+                },
+                {
+                    "word": "ngày thầy thuốc Việt Nam",
+                    "_word": "ngay thay thuoc viet nam",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày thầy thuốc",
+                        "ngày bác sĩ"
+                    ]
+                },
+                {
+                    "word": "ngày thành lập quân đội nhân dân Việt Nam",
+                    "_word": "ngay thanh lap quan doi nhan dan viet nam",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "ngày thành lập quân đội",
+                        "ngày quân đội nhân dân Việt Nam"
+                    ]
+                },
+                {
+                    "word": "ti hí mắt",
+                    "_word": "ti hi mat",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "nhắm mắt",
+                        "nheo mắt",
+                        "nhìn chằm chằm"
+                    ]
+                },
+                {
+                    "word": "tinh mắt",
+                    "_word": "tinh mat",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "nhìn rõ",
+                        "nhìn sắc",
+                        "sắc sảo"
+                    ]
+                },
+                {
+                    "word": "phải không?",
+                    "_word": "phai khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "đúng không?",
+                        "có phải không?",
+                        "chẳng lẽ không?"
+                    ]
+                },
+                {
+                    "word": "cần không?",
+                    "_word": "can khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "có cần không?",
+                        "muốn không?"
+                    ]
+                },
+                {
+                    "word": "nên không?",
+                    "_word": "nen khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "có nên không?",
+                        "tốt hơn là"
+                    ]
+                },
+                {
+                    "word": "sợ không?",
+                    "_word": "so khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "có sợ không?",
+                        "lo sợ"
+                    ]
+                },
+                {
+                    "word": "đẹp không? (người)",
+                    "_word": "dep khong? (nguoi)",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "xinh đẹp không?",
+                        "hấp dẫn không?"
+                    ]
+                },
+                {
+                    "word": "quả bầu hồ lô",
+                    "_word": "qua bau ho lo",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "quả bầu",
+                        "quả bí"
+                    ]
+                },
+                {
+                    "word": "một là",
+                    "_word": "mot la",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "thứ nhất",
+                        "trước hết"
+                    ]
+                },
+                {
+                    "word": "năm là",
+                    "_word": "nam la",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "thứ năm",
+                        "cuối cùng"
+                    ]
+                },
+                {
+                    "word": "một ít/ một chút",
+                    "_word": "mot it/ mot chut",
+                    "description": "Một phần nào đó, thường là rất nhỏ.",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "một tí",
+                        "một xíu"
+                    ]
+                },
+                {
+                    "word": "muốn không?",
+                    "_word": "muon khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "có muốn không?",
+                        "ước muốn"
+                    ]
+                },
+                {
+                    "word": "đẹp không?",
+                    "_word": "dep khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "xinh đẹp không?",
+                        "hấp dẫn không?"
+                    ]
+                },
+                {
+                    "word": "phó hiệu trưởng",
+                    "_word": "pho hieu truong",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phó hiệu trưởng",
+                        "giám đốc",
+                        "trợ lý"
+                    ]
+                },
+                {
+                    "word": "Ô-lim-píc",
+                    "_word": "o-lim-pic",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "Olympic",
+                        "thể thao"
+                    ]
+                },
+                {
+                    "word": "số La Mã (Toán học)",
+                    "_word": "so la ma (toan hoc)",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "số La Mã",
+                        "kí hiệu La Mã"
+                    ]
+                },
+                {
+                    "word": "quan hệ từ",
+                    "_word": "quan he tu",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "liên từ",
+                        "từ nối",
+                        "từ kết nối"
+                    ]
+                },
+                {
+                    "word": "yêu nước Việt Nam",
+                    "_word": "yeu nuoc viet nam",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "yêu nước",
+                        "tổ quốc"
+                    ]
+                },
+                {
+                    "word": "nhổ lông mày",
+                    "_word": "nho long may",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "nhổ lông",
+                        "tỉa lông mày"
+                    ]
+                },
+                {
+                    "word": "giãn cách xã hội",
+                    "_word": "gian cach xa hoi",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "giãn cách",
+                        "cách ly",
+                        "khoảng cách"
+                    ]
+                },
+                {
+                    "word": "trong khoảng",
+                    "_word": "trong khoang",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "khoảng",
+                        "xung quanh",
+                        "gần"
+                    ]
+                },
+                {
+                    "word": "nhảy bao bố",
+                    "_word": "nhay bao bo",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "nhảy bao",
+                        "chơi nhảy bao",
+                        "trò chơi nhảy bao"
+                    ]
+                },
+                {
+                    "word": "nhảy lò cò",
+                    "_word": "nhay lo co",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "nhảy ô",
+                        "nhảy lò cò",
+                        "trò chơi nhảy lò cò"
+                    ]
+                },
+                {
+                    "word": "lớn hơn 1 (Toán học)",
+                    "_word": "lon hon 1 (toan hoc)",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "lớn hơn 1",
+                        "lớn hơn"
+                    ]
+                },
+                {
+                    "word": "lớn hơn 2 (Toán học)",
+                    "_word": "lon hon 2 (toan hoc)",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "lớn hơn 2",
+                        "lớn hơn"
+                    ]
+                },
+                {
+                    "word": "thống nhất đất nước",
+                    "_word": "thong nhat dat nuoc",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "thống nhất",
+                        "đoàn kết",
+                        "hợp nhất"
+                    ]
+                },
+                {
+                    "word": "thâm quầng mắt",
+                    "_word": "tham quang mat",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "quầng thâm",
+                        "quầng mắt",
+                        "vòng thâm"
+                    ]
+                },
+                {
+                    "word": "tuần trăng mật",
+                    "_word": "tuan trang mat",
+                    "description": "Chuyến du lịch mà đôi vợ chồng mới kết hôn dành cho nhau ngay sau lễ cưới của mình trong sự thân mật và riêng tư.",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tuần trăng mật",
+                        "tuần lễ mật ngọt",
+                        "du lịch trăng mật"
+                    ]
+                },
+                {
+                    "word": "phẫu thuật tay",
+                    "_word": "phau thuat tay",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phẫu thuật tay",
+                        "phẫu thuật bàn tay",
+                        "mổ tay"
+                    ]
+                },
+                {
+                    "word": "phẫu thuật chân",
+                    "_word": "phau thuat chan",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phẫu thuật chân",
+                        "phẫu thuật bàn chân",
+                        "mổ chân"
+                    ]
+                },
+                {
+                    "word": "phẫu thuật mắt",
+                    "_word": "phau thuat mat",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phẫu thuật mắt",
+                        "mổ mắt"
+                    ]
+                },
+                {
+                    "word": "phẫu thuật mũi",
+                    "_word": "phau thuat mui",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phẫu thuật mũi",
+                        "mổ mũi"
+                    ]
+                },
+                {
+                    "word": "phẫu thuật cổ",
+                    "_word": "phau thuat co",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phẫu thuật cổ",
+                        "mổ cổ"
+                    ]
+                },
+                {
+                    "word": "phẫu thuật bụng",
+                    "_word": "phau thuat bung",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "phẫu thuật bụng",
+                        "mổ bụng"
+                    ]
+                },
+                {
+                    "word": "đói không?",
+                    "_word": "doi khong?",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "có đói không?",
+                        "buồn đói"
+                    ]
+                },
+                {
+                    "word": "nước ép trái cây",
+                    "_word": "nuoc ep trai cay",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "nước ép",
+                        "sinh tố",
+                        "nước trái cây"
+                    ]
+                },
+                {
+                    "word": "một tiết học",
+                    "_word": "mot tiet hoc",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tiết học",
+                        "buổi học",
+                        "giờ học"
+                    ]
+                },
+                {
+                    "word": "một tiếng",
+                    "_word": "mot tieng",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "một giờ",
+                        "một tiếng đồng hồ"
+                    ]
+                },
+                {
+                    "word": "tuần này",
+                    "_word": "tuan nay",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tuần này",
+                        "tuần hiện tại"
+                    ]
+                },
+                {
+                    "word": "tuần sau",
+                    "_word": "tuan sau",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tuần sau",
+                        "tuần tới"
+                    ]
+                },
+                {
+                    "word": "tuần trước",
+                    "_word": "tuan truoc",
+                    "description": "",
+                    "tl": "Cụm từ",
+                    "synset_vi": [
+                        "tuần trước",
+                        "tuần vừa rồi"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "sinh đôi",
+            "_word": "sinh doi",
+            "description": "Sinh ra trong cùng một lần, thành một đôi.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "sinh đôi",
+                "song sinh",
+                "anh em sinh đôi",
+                "chị em sinh đôi"
+            ]
+        },
+        {
+            "word": "tay chân sạch sẽ",
+            "_word": "tay chan sach se",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "sạch sẽ",
+                "trong sạch",
+                "không vướng bận",
+                "tay không vướng bận"
+            ]
+        },
+        {
+            "word": "dòng sông chảy",
+            "_word": "dong song chay",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "dòng sông",
+                "con sông",
+                "sông chảy",
+                "dòng nước"
+            ]
+        },
+        {
+            "word": "nhà vệ sinh",
+            "_word": "nha ve sinh",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "nhà vệ sinh",
+                "toilet",
+                "phòng tắm",
+                "phòng vệ sinh"
+            ]
+        },
+        {
+            "word": "Bãi biển Vũng Tàu",
+            "_word": "bai bien vung tau",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "Bãi biển Vũng Tàu",
+                "biển Vũng Tàu"
+            ]
+        },
+        {
+            "word": "bao giờ?",
+            "_word": "bao gio?",
+            "description": "Khoảng thời gian nào đó chưa xác định, (thường dùng để hỏi).",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "bao giờ",
+                "khi nào",
+                "lúc nào",
+                "bao lâu"
+            ]
+        },
+        {
+            "word": "bảo vệ môi trường",
+            "_word": "bao ve moi truong",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "bảo vệ môi trường",
+                "bảo tồn môi trường",
+                "bảo vệ thiên nhiên",
+                "bảo vệ môi trường sống"
+            ]
+        },
+        {
+            "word": "bé loắt choắt",
+            "_word": "be loat choat",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "bé nhỏ",
+                "nhỏ nhắn",
+                "nhỏ con",
+                "nhỏ bé"
+            ]
+        },
+        {
+            "word": "bím tóc đuôi sam",
+            "_word": "bim toc duoi sam",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "bím tóc",
+                "tóc bím",
+                "đuôi sam",
+                "tóc đuôi sam"
+            ]
+        },
+        {
+            "word": "chăm sóc sức khỏe",
+            "_word": "cham soc suc khoe",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "chăm sóc sức khỏe",
+                "chăm sóc sức khoẻ",
+                "chăm sóc y tế",
+                "chăm sóc sức khỏe cộng đồng"
+            ]
+        },
+        {
+            "word": "chất độc màu da cam",
+            "_word": "chat doc mau da cam",
+            "description": "Chất độc ở dạng lỏng, có chứa dioxin, sánh như dầu, màu da cam, không tan trong nước, dễ xâm nhập qua lá và làm rối loạn hệ điều tiết sinh trưởng của cây, nguy hiểm đối với người.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "chất độc màu da cam",
+                "chất độc da cam",
+                "Agent Orange"
+            ]
+        },
+        {
+            "word": "nước tới chân mới nhảy",
+            "_word": "nuoc toi chan moi nhay",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "nước tới chân mới nhảy",
+                "chờ đến phút cuối",
+                "chờ đến lúc nguy cấp",
+                "chờ đến nước sông dâng"
+            ]
+        },
+        {
+            "word": "chuyển đổi số đo",
+            "_word": "chuyen doi so do",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "chuyển đổi số đo",
+                "đổi đơn vị",
+                "chuyển đổi đơn vị",
+                "đổi đơn vị đo"
+            ]
+        },
+        {
+            "word": "diện tích toàn phần",
+            "_word": "dien tich toan phan",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "diện tích toàn phần",
+                "tổng diện tích",
+                "diện tích bề mặt"
+            ]
+        },
+        {
+            "word": "diện tích xung quanh",
+            "_word": "dien tich xung quanh",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "diện tích xung quanh",
+                "diện tích bên hông",
+                "diện tích xung quanh hình khối"
+            ]
+        },
+        {
+            "word": "điểm ở giữa đoạn thẳng",
+            "_word": "diem o giua doan thang",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "điểm giữa",
+                "trung điểm",
+                "điểm chính giữa"
+            ]
+        },
+        {
+            "word": "đồ dùng dạy học",
+            "_word": "do dung day hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "đồ dùng dạy học",
+                "dụng cụ dạy học",
+                "phương tiện dạy học",
+                "thiết bị dạy học"
+            ]
+        },
+        {
+            "word": "học giỏi",
+            "_word": "hoc gioi",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "học giỏi",
+                "giỏi giang",
+                "xuất sắc",
+                "giỏi"
+            ]
+        },
+        {
+            "word": "học sinh Miền Nam",
+            "_word": "hoc sinh mien nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "học sinh Miền Nam",
+                "học sinh miền Nam",
+                "học sinh Nam Bộ"
+            ]
+        },
+        {
+            "word": "học trung bình",
+            "_word": "hoc trung binh",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "học trung bình",
+                "học bình thường",
+                "học khá",
+                "học ổn định"
+            ]
+        },
+        {
+            "word": "học kém",
+            "_word": "hoc kem",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "học kém",
+                "học yếu",
+                "học dở",
+                "học không tốt"
+            ]
+        },
+        {
+            "word": "học nhóm",
+            "_word": "hoc nhom",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "học nhóm",
+                "nhóm học",
+                "học tập nhóm",
+                "học chung"
+            ]
+        },
+        {
+            "word": "khát nước",
+            "_word": "khat nuoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "khát nước",
+                "khát",
+                "khát khao",
+                "khát vọng"
+            ]
+        },
+        {
+            "word": "khỏi bệnh",
+            "_word": "khoi benh",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "khỏi bệnh",
+                "hồi phục sức khỏe",
+                "hồi phục",
+                "bình phục"
+            ]
+        },
+        {
+            "word": "không thẳng hàng",
+            "_word": "khong thang hang",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "không thẳng hàng",
+                "lệch",
+                "không thẳng",
+                "không song song"
+            ]
+        },
+        {
+            "word": "không hiểu",
+            "_word": "khong hieu",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "không hiểu",
+                "không nắm bắt",
+                "không thông hiểu",
+                "không rõ"
+            ]
+        },
+        {
+            "word": "lăng Bác Hồ",
+            "_word": "lang bac ho",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "lăng Bác Hồ",
+                "lăng Hồ Chí Minh",
+                "lăng Chủ tịch Hồ Chí Minh"
+            ]
+        },
+        {
+            "word": "liền sau",
+            "_word": "lien sau",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "liền sau",
+                "ngay sau",
+                "tiếp theo",
+                "sau đó"
+            ]
+        },
+        {
+            "word": "liền trước",
+            "_word": "lien truoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "liền trước",
+                "ngay trước",
+                "trước đó",
+                "trước khi"
+            ]
+        },
+        {
+            "word": "luyện từ và câu",
+            "_word": "luyen tu va cau",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "luyện từ và câu",
+                "luyện tập từ và câu",
+                "luyện tập từ vựng và ngữ pháp",
+                "luyện tập tiếng Việt"
+            ]
+        },
+        {
+            "word": "lười học",
+            "_word": "luoi hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "lười học",
+                "lười biếng học",
+                "không ham học",
+                "không chịu học"
+            ]
+        },
+        {
+            "word": "mặc quần áo",
+            "_word": "mac quan ao",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "mặc quần áo",
+                "thay đồ",
+                "mặc đồ",
+                "trang phục"
+            ]
+        },
+        {
+            "word": "mặt dài",
+            "_word": "mat dai",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "mặt dài",
+                "khuôn mặt dài",
+                "mặt hình chữ nhật"
+            ]
+        },
+        {
+            "word": "mẫu số bé",
+            "_word": "mau so be",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "mẫu số bé",
+                "mẫu số nhỏ",
+                "mẫu số nhỏ hơn"
+            ]
+        },
+        {
+            "word": "mẫu số chung",
+            "_word": "mau so chung",
+            "description": "Bội số chung của các mẫu số của các phân số đã cho.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "mẫu số chung",
+                "mẫu số chung nhỏ nhất"
+            ]
+        },
+        {
+            "word": "mẫu số lớn",
+            "_word": "mau so lon",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "mẫu số lớn",
+                "mẫu số lớn hơn"
+            ]
+        },
+        {
+            "word": "miền Bắc Việt Nam",
+            "_word": "mien bac viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "miền Bắc Việt Nam",
+                "miền Bắc",
+                "miền Bắc nước ta"
+            ]
+        },
+        {
+            "word": "miền Nam Việt Nam",
+            "_word": "mien nam viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "miền Nam Việt Nam",
+                "miền Nam",
+                "miền Nam nước ta"
+            ]
+        },
+        {
+            "word": "Mặt trời mọc",
+            "_word": "mat troi moc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "Mặt trời mọc",
+                "bình minh",
+                "mọc nắng",
+                "mặt trời ló dạng"
+            ]
+        },
+        {
+            "word": "Mặt trời lặn",
+            "_word": "mat troi lan",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "Mặt trời lặn",
+                "hoàng hôn",
+                "lặn nắng",
+                "mặt trời khuất bóng"
+            ]
+        },
+        {
+            "word": "mồ côi cha mẹ",
+            "_word": "mo coi cha me",
+            "description": "Bị mất cha và mẹ khi còn bé dại.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "mồ côi cha mẹ",
+                "mồ côi",
+                "mồ côi cả cha lẫn mẹ"
+            ]
+        },
+        {
+            "word": "một cặp",
+            "_word": "mot cap",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "một cặp",
+                "hai cái",
+                "hai món",
+                "hai thứ"
+            ]
+        },
+        {
+            "word": "một đôi",
+            "_word": "mot doi",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "một đôi",
+                "hai cái",
+                "hai món",
+                "hai thứ"
+            ]
+        },
+        {
+            "word": "một mình",
+            "_word": "mot minh",
+            "description": "Chỉ một cá nhân mình, không cùng với ai.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "một mình",
+                "cô đơn",
+                "lẻ loi",
+                "riêng lẻ"
+            ]
+        },
+        {
+            "word": "Nam bán cầu",
+            "_word": "nam ban cau",
+            "description": "Nửa Trái Đất, kể từ xích đạo đến Nam Cực.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "Nam bán cầu",
+                "bán cầu Nam",
+                "nửa cầu Nam"
+            ]
+        },
+        {
+            "word": "ngày khai trường",
+            "_word": "ngay khai truong",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ngày khai trường",
+                "ngày khai giảng",
+                "ngày đầu tiên đi học"
+            ]
+        },
+        {
+            "word": "ngày Nhà giáo Việt nam",
+            "_word": "ngay nha giao viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ngày Nhà giáo Việt Nam",
+                "ngày 20 tháng 11",
+                "ngày tôn vinh thầy cô"
+            ]
+        },
+        {
+            "word": "ngày Quốc tế Lao động",
+            "_word": "ngay quoc te lao dong",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ngày Quốc tế Lao động",
+                "ngày 1 tháng 5",
+                "ngày lễ lao động"
+            ]
+        },
+        {
+            "word": "xâm hại tình dục",
+            "_word": "xam hai tinh duc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "xâm hại tình dục",
+                "lạm dụng tình dục",
+                "bạo hành tình dục",
+                "quấy rối tình dục"
+            ]
+        },
+        {
+            "word": "nhân cách hoá",
+            "_word": "nhan cach hoa",
+            "description": "Gán cho loài vật hoặc vật vô tri hình dáng, tính cách hoặc ngôn gữ của con người (một biện pháp tu từ trong văn học).",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "nhân cách hóa",
+                "nhân hóa",
+                "biện pháp nhân hóa"
+            ]
+        },
+        {
+            "word": "nhổ củ cải",
+            "_word": "nho cu cai",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "nhổ củ cải",
+                "nhổ cây",
+                "nhổ rau"
+            ]
+        },
+        {
+            "word": "như hình với bóng",
+            "_word": "nhu hinh voi bong",
+            "description": "Ví cảnh luôn luôn ở bên nhau, không lúc nào rời.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "như hình với bóng",
+                "không rời",
+                "luôn sát cánh",
+                "không thể tách rời"
+            ]
+        },
+        {
+            "word": "nổ lốp xe",
+            "_word": "no lop xe",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "nổ lốp xe",
+                "hỏng lốp",
+                "lốp bị thủng"
+            ]
+        },
+        {
+            "word": "nước Việt nam",
+            "_word": "nuoc viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "nước Việt Nam",
+                "Việt Nam",
+                "đất nước Việt Nam"
+            ]
+        },
+        {
+            "word": "ở ngoài",
+            "_word": "o ngoai",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ở ngoài",
+                "bên ngoài",
+                "ngoài"
+            ]
+        },
+        {
+            "word": "ở trong",
+            "_word": "o trong",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ở trong",
+                "bên trong",
+                "trong"
+            ]
+        },
+        {
+            "word": "hai phân số bằng nhau",
+            "_word": "hai phan so bang nhau",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "hai phân số tương đương",
+                "hai phân số bằng giá trị"
+            ]
+        },
+        {
+            "word": "phân số thập phân",
+            "_word": "phan so thap phan",
+            "description": "Các phân số có mẫu số là một luỹ thừa của 10.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phân số thập phân",
+                "phân số có mẫu là 10"
+            ]
+        },
+        {
+            "word": "phân số tối giản",
+            "_word": "phan so toi gian",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phân số rút gọn",
+                "phân số không rút gọn được"
+            ]
+        },
+        {
+            "word": "phim hoạt hình",
+            "_word": "phim hoat hinh",
+            "description": "Phim quay từng hình vẽ, hình cắt giấy, động tác của búp bê, con rối, v.v. và khi chiếu với tốc độ 24 hình/giây sẽ tạo được cảm giác các nhân vật đang hoạt động.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phim hoạt họa",
+                "phim hoạt động"
+            ]
+        },
+        {
+            "word": "phim tài liệu",
+            "_word": "phim tai lieu",
+            "description": "Phim chuyên ghi lại những hình ảnh, sự kiện có thật nhằm phản ánh hiện thực cuộc sống.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phim tư liệu",
+                "phim ghi chép"
+            ]
+        },
+        {
+            "word": "phòng âm nhạc",
+            "_word": "phong am nhac",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phòng học nhạc",
+                "phòng luyện nhạc"
+            ]
+        },
+        {
+            "word": "phòng chức năng",
+            "_word": "phong chuc nang",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phòng đa chức năng",
+                "phòng chuyên dụng"
+            ]
+        },
+        {
+            "word": "phòng đa năng",
+            "_word": "phong da nang",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phòng hội nghị",
+                "phòng họp"
+            ]
+        },
+        {
+            "word": "phòng học tin học",
+            "_word": "phong hoc tin hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phòng máy tính",
+                "phòng học vi tính"
+            ]
+        },
+        {
+            "word": "phòng máy tính",
+            "_word": "phong may tinh",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phòng vi tính",
+                "phòng server"
+            ]
+        },
+        {
+            "word": "phố cổ Hội an",
+            "_word": "pho co hoi an",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phố cổ Hội An",
+                "thành phố cổ Hội An"
+            ]
+        },
+        {
+            "word": "phương tiện giao thông",
+            "_word": "phuong tien giao thong",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phương tiện vận tải",
+                "phương tiện di chuyển"
+            ]
+        },
+        {
+            "word": "quy đồng mẫu số",
+            "_word": "quy dong mau so",
+            "description": "Làm cho các mẫu số bằng nhau mà không thay đổi giá trị của các phân số.",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "tìm mẫu số chung",
+                "tìm bội chung nhỏ nhất của mẫu"
+            ]
+        },
+        {
+            "word": "rạp chiếu phim",
+            "_word": "rap chieu phim",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "rạp chiếu bóng",
+                "rạp phim"
+            ]
+        },
+        {
+            "word": "tên là gì?",
+            "_word": "ten la gi?",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "bạn tên gì?",
+                "tên của bạn là gì?"
+            ]
+        },
+        {
+            "word": "tỉ số phần trăm",
+            "_word": "ti so phan tram",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "phần trăm",
+                "tỷ lệ phần trăm"
+            ]
+        },
+        {
+            "word": "tính chất bằng nhau",
+            "_word": "tinh chat bang nhau",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "tính chất tương đương",
+                "tính chất bằng giá trị"
+            ]
+        },
+        {
+            "word": "tính chất cơ bản của phân số",
+            "_word": "tinh chat co ban cua phan so",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "tính chất cơ bản của phân số",
+                "luật cơ bản của phân số"
+            ]
+        },
+        {
+            "word": "tính chất giao hoán",
+            "_word": "tinh chat giao hoan",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "tính chất đổi chỗ",
+                "tính chất hoán vị"
+            ]
+        },
+        {
+            "word": "tính chất kết hợp",
+            "_word": "tinh chat ket hop",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "tính chất nhóm",
+                "tính chất kết hợp phép toán"
+            ]
+        },
+        {
+            "word": "vệ sinh cá nhân",
+            "_word": "ve sinh ca nhan",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "vệ sinh bản thân",
+                "vệ sinh cơ thể"
+            ]
+        },
+        {
+            "word": "xung quanh nhà",
+            "_word": "xung quanh nha",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ở gần nhà",
+                "trong khu vực nhà"
+            ]
+        },
+        {
+            "word": "ngôn ngữ kí hiệu",
+            "_word": "ngon ngu ki hieu",
+            "description": "",
+            "tl": "Cụm từ",
+            "synset_vi": [
+                "ngôn ngữ cử chỉ",
+                "ngôn ngữ tay"
+            ]
+        }
+    ]
+}
